@@ -1,0 +1,6 @@
+{
+  "name": "Chipeo Cibaeño",
+  "description": "Juego dominicano de chipeo y car audio con radio Pioneer interactivo, tienda de guaguas, clanes, batallas online en pantalla dividida y bóveda cifrada de extremo a extremo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
